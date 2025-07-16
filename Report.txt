@@ -1,3 +1,3 @@
-1. Hello! Welcome to the Git Report.
+
 2. Welcome to your First Session.
 3. Git is a Version Control System.
